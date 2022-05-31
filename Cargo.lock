@@ -149,7 +149,7 @@ dependencies = [
 [[package]]
 name = "pest"
 version = "2.1.3"
-source = "git+https://github.com/postageapp/pest.git?branch=feature/override_fn#28382b2f269740ce0c1fcc04b23ba153363a7e6a"
+source = "git+https://github.com/postageapp/pest.git?branch=feature/override_fn#91c89e4252bfcba11293f8ed70ac493bf179476d"
 dependencies = [
  "ucd-trie",
 ]
@@ -157,7 +157,7 @@ dependencies = [
 [[package]]
 name = "pest_bootstrap"
 version = "0.0.0"
-source = "git+https://github.com/postageapp/pest.git?branch=feature/override_fn#28382b2f269740ce0c1fcc04b23ba153363a7e6a"
+source = "git+https://github.com/postageapp/pest.git?branch=feature/override_fn#91c89e4252bfcba11293f8ed70ac493bf179476d"
 dependencies = [
  "pest_generator 2.1.3",
  "quote",
@@ -187,7 +187,7 @@ dependencies = [
 [[package]]
 name = "pest_derive"
 version = "2.1.0"
-source = "git+https://github.com/postageapp/pest.git?branch=feature/override_fn#28382b2f269740ce0c1fcc04b23ba153363a7e6a"
+source = "git+https://github.com/postageapp/pest.git?branch=feature/override_fn#91c89e4252bfcba11293f8ed70ac493bf179476d"
 dependencies = [
  "pest 2.1.3 (git+https://github.com/postageapp/pest.git?branch=feature/override_fn)",
  "pest_generator 2.1.4",
@@ -209,7 +209,7 @@ dependencies = [
 [[package]]
 name = "pest_generator"
 version = "2.1.4"
-source = "git+https://github.com/postageapp/pest.git?branch=feature/override_fn#28382b2f269740ce0c1fcc04b23ba153363a7e6a"
+source = "git+https://github.com/postageapp/pest.git?branch=feature/override_fn#91c89e4252bfcba11293f8ed70ac493bf179476d"
 dependencies = [
  "pest 2.1.3 (git+https://github.com/postageapp/pest.git?branch=feature/override_fn)",
  "pest_meta 2.1.3 (git+https://github.com/postageapp/pest.git?branch=feature/override_fn)",
@@ -232,7 +232,7 @@ dependencies = [
 [[package]]
 name = "pest_meta"
 version = "2.1.3"
-source = "git+https://github.com/postageapp/pest.git?branch=feature/override_fn#28382b2f269740ce0c1fcc04b23ba153363a7e6a"
+source = "git+https://github.com/postageapp/pest.git?branch=feature/override_fn#91c89e4252bfcba11293f8ed70ac493bf179476d"
 dependencies = [
  "pest 2.1.3 (git+https://github.com/postageapp/pest.git?branch=feature/override_fn)",
  "sha-1 0.10.0",
